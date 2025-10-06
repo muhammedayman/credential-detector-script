@@ -17,16 +17,16 @@
     "browser",
     "dom"
   ],
-  "author": "Your Name",
+  "author": "Mohammed aymen",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/credential-field-detector.git"
+    "url": "https://github.com/muhammedayman/credential-detector-script.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/credential-field-detector/issues"
+    "url": "https://github.com/muhammedayman/credential-detector-script/issues"
   },
-  "homepage": "https://github.com/yourusername/credential-field-detector#readme",
+  "homepage": "https://github.com/muhammedayman/credential-detector-script#readme",
   "files": [
     "field-detector.js",
     "README.md"
