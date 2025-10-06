@@ -1,0 +1,34 @@
+{
+  "name": "credential-field-detector",
+  "version": "1.0.0",
+  "description": "Lightweight JavaScript library for detecting username and password fields in web forms",
+  "main": "field-detector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "username",
+    "form",
+    "detection",
+    "field",
+    "login",
+    "credential",
+    "browser",
+    "dom"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/credential-field-detector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/credential-field-detector/issues"
+  },
+  "homepage": "https://github.com/yourusername/credential-field-detector#readme",
+  "files": [
+    "field-detector.js",
+    "README.md"
+  ]
+}
